@@ -1,0 +1,19 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.env
+
+# Other common ignores
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+#embedding
+*.pkl
