@@ -16,8 +16,8 @@ This project uses the BLIP model with LLM API to extract and retrieve image cont
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/freshfish15/PlugIR_Demo.git)
-   cd <repository-directory>
+   git clone https://github.com/freshfish15/PlugIR_Demo.git
+   cd PlugIR_Demo
    ```
 
 2. Configure the `main.py` file:
