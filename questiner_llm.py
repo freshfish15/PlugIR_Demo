@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 # client = OpenAI(api_key="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")
-client = OpenAI(api_key="sk-mR9xMzFRbOWD21nzrCC8mnjTXYeIxEaKVho0ftGXw5VzQ3VM", base_url="https://tbnx.plus7.plus/v1")
+client = OpenAI(api_key="", base_url="")
 # Set up OpenAI API key (replace with your actual API key)
 
 def generate_question(retrieval_context, description, dialogue):
