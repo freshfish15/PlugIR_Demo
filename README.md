@@ -1,6 +1,6 @@
-# Image Context Extraction Project
+# Demo of Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach
 
-This project uses the BLIP model with LLM API to extract and retrieve image contexts based on text queries, leveraging image embeddings and dialogue-based retrieval.
+This project is an implementation of [Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach](https://arxiv.org/abs/2406.03411), which uses the BLIP model with LLM API to extract and retrieve image contexts based on text queries, leveraging image embeddings and dialogue-based retrieval.
 
 ## Quick Start
 
